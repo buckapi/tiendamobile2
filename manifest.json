@@ -1,12 +1,12 @@
 {
-  "name": "Fuzzy app",
-  "short_name": "Fuzzy app",
+  "name": "Marketplace",
+  "short_name": "Marketplace",
   "lang": "en-US",
   "start_url": ".",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "#122636",
-  "description": "fuzzy app",
+  "description": "Marketplace",
   "icons": [
     {
       "src": "assets/images/logo/favicon.png",
